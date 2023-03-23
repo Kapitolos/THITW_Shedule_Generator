@@ -1,0 +1,203 @@
+{
+    "Mario": {
+        "Bothams": {
+            "lunch": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": [
+            "2023-03-28"
+        ]
+    },
+    "Chad": {
+        "Bothams": {
+            "lunch": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Ted": {
+        "Bothams": {
+            "lunch": [
+                "Monday",
+                "Wednesday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Julia": {
+        "Bothams": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "Hole": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Ryan": {
+        "Hole": {
+            "evening": [
+                "Tuesday",
+                "Wednesday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Patrick": {
+        "Hole": {
+            "evening": [
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Patricia": {
+        "Bothams": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "Hole": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Irena": {
+        "Bothams": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "Hole": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Thomas": {
+        "Bothams": {
+            "evening": [
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "Hole": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Kevin": {
+        "Bothams": {
+            "evening": [
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Erica": {
+        "Bothams": {
+            "evening": [
+                "Monday",
+                "Wednesday",
+                "Thursday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    },
+    "Dayle": {
+        "Bothams": {
+            "evening": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "booked_off_dates": []
+    }
+}
